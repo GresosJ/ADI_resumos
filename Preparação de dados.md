@@ -1,0 +1,3 @@
+# Preparação de Dados
+
+A preparação dos dados visa garantir que a informação contida nos conjuntos de dados seja adequadamente formatada e exposta para analise por ferramentas de analise de dados. Isso inclui lidar com incompletude, lixo e inconsistencias nos dados do mundo real. Além disso, a preparação dos dados tambem capacida os preparadores a selecionarem os modelos de analise de dados mais apropriados.

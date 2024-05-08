@@ -19,7 +19,7 @@ _Big Data_ é um termo popularizado para se referir a dados em grandes quantidad
 
 ## Machine Learning
 
-(IMAGEM)
+![Machine Learning](img/machinelearning.png)
 
 ### Aprendizagem Automática
 
